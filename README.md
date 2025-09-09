@@ -23,6 +23,6 @@ webtechnologie/
 
 ## Algemene opzet
 - Gebruik opnieuw overal reset.css.
-- Oefeningen 1 tot en met 5 zijn allemaal gebaseerd op hetzelfde [algemene ontwerp](./algemene-layout.webp)
+- Oefeningen 1 tot en met 5 zijn allemaal gebaseerd op hetzelfde ![algemene ontwerp](./algemene-layout.webp)
 - Voorzie de achtergrond van de body van een leuke gradient. Gebruik hiervoor een CSS gradient generator tool zoals [cssgradient.io](https://cssgradient.io/).
 - Zorg ervoor dat de body children zowel verticaal als horizontaal in het midden van de webpagina gecentreerd staan. Gebruik hiervoor CSS Grid.
